@@ -1,0 +1,5 @@
+c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\bin\EstudoDeCasoWCF.dll
+c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\bin\EstudoDeCasoWCF.pdb
+c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.dll
+c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.csprojResolveAssemblyReference.cache
