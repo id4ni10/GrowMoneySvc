@@ -14,7 +14,7 @@ namespace Lib
         }
 
         [DataMember]
-        public Int32 Code
+        public String Code
         {
             get;
             set;

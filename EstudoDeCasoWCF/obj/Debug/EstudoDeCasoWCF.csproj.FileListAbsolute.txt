@@ -3,3 +3,8 @@ c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCa
 c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.dll
 c:\users\danilo\documents\visual studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.pdb
 C:\Users\Danilo\Documents\Visual Studio 2010\Projects\EstudoDeCasoWCF\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\GitHub\GrowMoneySvc\EstudoDeCasoWCF\bin\EstudoDeCasoWCF.dll
+C:\Users\Danilo\Documents\GitHub\GrowMoneySvc\EstudoDeCasoWCF\bin\EstudoDeCasoWCF.pdb
+C:\Users\Danilo\Documents\GitHub\GrowMoneySvc\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\GitHub\GrowMoneySvc\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.dll
+C:\Users\Danilo\Documents\GitHub\GrowMoneySvc\EstudoDeCasoWCF\obj\Debug\EstudoDeCasoWCF.pdb

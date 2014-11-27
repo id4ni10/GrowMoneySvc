@@ -68,7 +68,7 @@ namespace EstudoDeCasoWCF
 
                 agency.Adress = (String)row["adress"];
                 agency.ID = (Int32)row["id"];
-                agency.Code = (Int32)row["code"];
+                agency.Code = (String)row["code"];
 
                 retorno.Add(agency);
             }
@@ -101,6 +101,7 @@ namespace EstudoDeCasoWCF
                 account.Balance = (Double)row["balance"];
                 account.ID = (Int32)row["id"];
                 account.Code = (String)row["code"];
+                account.AgencyID = (Int32)row["agency_id"];
 
                 retorno.Add(account);
             }

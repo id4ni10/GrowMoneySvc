@@ -26,5 +26,12 @@ namespace Lib
             get;
             set;
         }
+
+        [DataMember]
+        public Int32 AgencyID
+        {
+            get;
+            set;
+        }
     }
 }
